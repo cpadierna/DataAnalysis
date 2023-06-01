@@ -15,7 +15,7 @@ The Python Script that can be found in the repo utilizes beautifulsoup & request
 
 <img src="https://github.com/cpadierna/DataAnalysis/blob/main/pythonscript_gif.gif" width="500">
 
-### 2. CLeaning the data in Excel
+### 2. Cleaning the data in Excel
 The Excel sheets have been transposed and then INDEX, MATCH, and SUMIFs syntax were mainly used to clean the tranposed data. 
 Each stage can be seen in the workbooks.
 
